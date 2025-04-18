@@ -4,10 +4,13 @@ Enthusiast | Data Analyst Skilled in backend & frontend development, containeriz
 
 ## **About Me**
 
-*💻 Software Engineer passionate about building scalable full-stack applications.
-📊 Data Analyst exploring insights through Python and machine learning.
-🐳 Skilled in containerization with Docker and Kubernetes.
-🌟 Advocate for open-source and automation with GitHub Actions.*
+*💻 Software Engineer passionate about building scalable full-stack applications.*
+
+*📊 Data Analyst exploring insights through Python and machine learning.*
+
+*🐳 Skilled in containerization with Docker and Kubernetes.*
+
+*🌟 Advocate for open-source and automation with GitHub Actions.*
 
 ## GitHub Stats
 
